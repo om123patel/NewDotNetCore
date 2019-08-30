@@ -1,0 +1,16 @@
+﻿<environment include="Development">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap-toastr/toastr.min.css" />
+    <link rel="stylesheet" href="~/css/component/components.css" />
+    <link rel="stylesheet" href="~/css/component/components-md.css"  />
+    <link rel="stylesheet" href="~/css/component/components-rounded.css"  />
+    <link rel="stylesheet" href="~/css/plugins/plugins.css" />
+</environment>
+<environment exclude="Development">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+          asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+          asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap-toastr/toastr.min.css" asp-append-version="true" />
+</environment>

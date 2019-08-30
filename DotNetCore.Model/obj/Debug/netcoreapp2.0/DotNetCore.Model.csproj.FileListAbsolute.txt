@@ -1,0 +1,24 @@
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.deps.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csprojAssemblyReference.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csproj.CoreCompileInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.AssemblyInfoInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.AssemblyInfo.cs
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csproj.CopyComplete
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csprojAssemblyReference.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csproj.CoreCompileInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.AssemblyInfoInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.AssemblyInfo.cs
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.deps.json
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Model\obj\Debug\netcoreapp2.0\DotNetCore.Model.csproj.CopyComplete

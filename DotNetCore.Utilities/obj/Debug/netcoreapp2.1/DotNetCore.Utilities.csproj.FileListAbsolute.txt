@@ -1,0 +1,14 @@
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\DotNetCore.Utilities.deps.json
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\DotNetCore.Utilities.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\DotNetCore.Utilities.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.csproj.CoreCompileInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.AssemblyInfoInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.AssemblyInfo.cs
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.csproj.CopyComplete
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.1\DotNetCore.Utilities.csprojAssemblyReference.cache

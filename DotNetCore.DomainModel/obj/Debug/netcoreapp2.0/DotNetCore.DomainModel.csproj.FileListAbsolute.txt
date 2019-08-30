@@ -1,0 +1,12 @@
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\bin\Debug\netcoreapp2.0\DotNetCore.DomainModel.deps.json
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\bin\Debug\netcoreapp2.0\DotNetCore.DomainModel.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\bin\Debug\netcoreapp2.0\DotNetCore.DomainModel.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.csproj.CoreCompileInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.AssemblyInfoInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.AssemblyInfo.cs
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.csproj.CopyComplete
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.DomainModel\obj\Debug\netcoreapp2.0\DotNetCore.DomainModel.csprojAssemblyReference.cache

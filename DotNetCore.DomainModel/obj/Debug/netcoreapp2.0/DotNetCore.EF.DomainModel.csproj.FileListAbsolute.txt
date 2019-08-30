@@ -1,0 +1,9 @@
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\bin\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.deps.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\bin\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\bin\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.csproj.CoreCompileInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.AssemblyInfoInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.AssemblyInfo.cs
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.CustomModel\obj\Debug\netcoreapp2.0\DotNetCore.EF.DomainModel.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.deps.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.csproj.CoreCompileInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.AssemblyInfoInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.AssemblyInfo.cs
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.Utilities1\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.csprojAssemblyReference.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.deps.json
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.csproj.CoreCompileInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.AssemblyInfoInputs.cache
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.AssemblyInfo.cs
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Practice Projects\Core Demo\DotNetCore\DotNetCore.Utilities\obj\Debug\netcoreapp2.0\DotNetCore.Utilities.csprojAssemblyReference.cache

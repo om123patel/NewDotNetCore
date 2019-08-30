@@ -1,0 +1,109 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Employee Master</h2>
+<style type="text/css">
+    .header {
+        cursor: pointer;
+    }
+
+    .DESC:after {
+        content: " ▾";
+        font-family: Arial, sans-serif;
+    }
+
+    .ASC:after {
+        content: " ▴";
+        font-family: Arial, sans-serif;
+    }
+
+</style>
+
+<p>
+    @Html.ActionLink("Add New", "Create")
+</p>
+
+@*@Html.AntiForgeryToken()*@
+<div id="divGrid">
+
+</div>
+
+
+
+@section scripts{
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            gridReload('Employee/Grid', 'divGrid', 1);
+        })
+
+
+        function gridReload(pageUrl, targetDiv, currentPage, pageSize) {
+            GridLoad(pageUrl, targetDiv, currentPage, pageSize);
+        }
+
+        function setGridSortingUrl(searchUrl, targetDiv) {
+            var $table = $("#" + targetDiv + " table");
+            if ($table.length > 0 && $table.data("sorting") === true) {
+
+                var sortBy = $table.data('sortby');
+                var sortDirection = $table.data('sortdirection');
+
+                $table.find('thead tr th').each(function () {
+
+                    var th = $(this);
+                    var text = th.text();
+                    var columnName = th.data('columnname');
+                    th.text('');
+
+                    var sortOrder = '';
+
+                    if (sortBy === columnName) {
+                        if (sortDirection === "ASC")
+                            sortOrder = "DESC";
+                        else if (sortDirection === "DESC")
+                            sortOrder = "ASC";
+
+                        th.addClass(sortDirection);
+                    }
+
+                    var link = $("<a>");
+                    link.attr("href", "javascript:void(0)");
+                    link.attr("onclick", "GridSorting('" + columnName + "', '" + (sortBy === columnName ? sortOrder : 'ASC') + "', '" + searchUrl + "', '" + targetDiv + "');return false;");
+                    link.text(text);
+                    th.append(link);
+                });
+            }
+        }
+
+        function GridSorting(columnValue, orderValue, searchUrl, targetDiv) {
+            GridLoad(searchUrl, targetDiv, 1, null, columnValue, orderValue);
+        }
+
+        function GridLoad(pageUrl, targetDiv, currentPage, pageSize, columnValue, orderValue) {
+
+            if ($("#PageSizeId").length > 0)
+                pageSize = parseInt($("#PageSizeId  option:selected").val());
+
+            PostToServer({
+                url: pageUrl,
+                data: { Page: currentPage, PageSize: pageSize, SortingColumn: columnValue, SortingDirection: orderValue },
+                onSuccess: function (data) {
+                    $("#" + targetDiv).html(data);
+                    setGridSortingUrl(pageUrl, targetDiv);
+
+                    if (data.isValid) {
+                        //window.location = urlHomePage;
+                    }
+                    else {
+                        //Message.Error(data.errors[0].ErrorMessages);
+                    }
+                },
+                onError: function (xhr, status, error) {
+                    Message.Error(error);
+                }
+            });
+        }
+    </script>
+}

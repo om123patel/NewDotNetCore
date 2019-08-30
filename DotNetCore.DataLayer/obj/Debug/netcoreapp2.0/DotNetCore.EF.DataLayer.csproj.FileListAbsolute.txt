@@ -1,0 +1,16 @@
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.csprojAssemblyReference.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.csproj.CoreCompileInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.AssemblyInfoInputs.cache
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.AssemblyInfo.cs
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.deps.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.runtimeconfig.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.runtimeconfig.dev.json
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.Model.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\bin\Debug\netcoreapp2.0\DotNetCore.Utilities.pdb
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.csproj.CopyComplete
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.dll
+C:\Anil\Core Demo\DotNetCore\DotNetCore\DotNetCore.EF.Model\obj\Debug\netcoreapp2.0\DotNetCore.EF.DataLayer.pdb

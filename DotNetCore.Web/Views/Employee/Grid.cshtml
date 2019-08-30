@@ -1,0 +1,64 @@
+﻿@using DotNetCore.Components;
+@model DotNetCore.DataLayer.Paging.IPaginate<DotNetCore.DomainModel.EmployeeModel>
+@{
+    Layout = null;
+    string PageUrl = Url.Action("Grid", "Employee");
+}
+<div id="divGrid">
+    <table class="table table-responsive" data-sorting="true" data-sortby="@Model.SortBy" data-sortdirection="@Model.SortDirection">
+        <thead>
+            <tr>
+                <th data-columnname="FirstName">First Name</th>
+                <th data-columnname="LastName">Last Name</th>
+                <th data-columnname="FullName">Full Name</th>
+                <th data-columnname="Code">Code</th>
+                <th data-columnname="Department.Name">Department Name</th>
+                <th data-columnname="Designation.Name">Designation Name</th>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Code)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Department.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Designation.Name)</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "Employee", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", "Employee", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+
+<div class="row">
+
+    <div class="col-xs-12 col-md-4 align-xs-center align-md-left margin-xs-bottom-10 margin-md-bottom-0">
+        @Html.GridCountDetails(Model.Index, Model.Size, Model.Count)
+    </div>
+    <div class="col-xs-12 col-md-4 align-xs-center align-md-center margin-xs-bottom-10 margin-md-bottom-0">
+        <div class="form-group">
+            <label class="col-xs-6 col-sm-6 col-md-6 align-right margin-top-5">Page Size :</label>
+            <div class="col-xs-6 col-sm-3 col-md-6 align-left">
+                @Html.GridPageSize(Model.Size, "Employee/Grid", "divGrid")
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-md-4 align-xs-center align-md-right">
+        @Html.Hidden("hfRecordCount", Model.Count, new { id = "hfRecordCount" })
+        <div class="dataTables_paginate paging_bootstrap_number" style="float: right;">
+            @Html.GridPager(Model.Index, Model.Size, Model.Count, Model.Pages,
+                PageUrl,"divGrid",
+                Model.HasPrevious, Model.HasNext)
+        </div>
+    </div>
+
+</div>
